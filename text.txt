@@ -1,0 +1,92 @@
+1st install mongo db 
+require it 
+url link 
+database name
+client new mongoClient(url)
+async function for dbconnect()
+client.connect()
+database
+collection
+
+export this file
+
+
+
+index.js = 
+const require that file
+
+const main async function 
+call the function
+
+
+
+
+2nd 
+db connect require 
+then insert function async
+log
+call it
+result print = promise return
+write await 
+this will print acknowldedgment
+
+for multiple data just use array []
+
+
+
+
+update
+pending = ?
+then use async await
+
+updateOne = will update only one value
+1st data uploadation only
+
+acknowldedgment 1 = means deleted
+
+
+
+
+
+
+
+
+API
+express require
+
+require mongodb
+
+app.get then async  then use await 
+find().array()
+log
+res.send
+
+listen at the bottom
+
+
+check this api on postman
+
+
+
+
+post
+2nd 
+whenver we get data from postman then we have to use 
+appl.use(express.json())
+
+after doin aboce then 
+do log
+req.body
+and same
+res.send
+
+now we want to send this data to postman
+
+make the function of the post async
+
+
+
+
+
+for delete function
+require mongodb
